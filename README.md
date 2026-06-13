@@ -1,4 +1,4 @@
-# dynamic-credit-allocation-engine
+# Dynamic-credit-allocation-engine
 Risk-based credit limit allocation for suppliers, distributors, and SME borrowers.
 A credit decision engine that dynamically recommends credit limits based on financial performance, payment behavior, transaction history, and portfolio risk constraints.
 The objective is to optimize capital allocation while maintaining acceptable risk-adjusted returns.
